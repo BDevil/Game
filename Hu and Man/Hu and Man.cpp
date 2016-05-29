@@ -10,8 +10,7 @@ using namespace std;
 int main() {
 	double x;
 	setlocale(0, "");
-	x = 3;
-
+	x = 1;
 	while (x <= 5) {
 		double h;
 	h = 1 / x;
